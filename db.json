@@ -1,0 +1,108 @@
+{
+  "filmes": [
+    {
+      
+      "titulo": "Homem-Aranha: Sem Volta Para Casa",
+      "ano": 2021,
+      "genero": "Ação/Aventura",
+      "categoria_id": 1,
+      "produtoraId": 1,
+      "id": 1
+    },
+    {
+      
+      "titulo": "Interestelar",
+      "ano": 2014,
+      "genero": "Ficção Científica",
+      "categoria_id": 1,
+      "produtoraId": 2,
+      "id": 2
+    },
+    {
+      "titulo": "Velozes & Furiosos 9",
+      "ano": 2021,
+      "genero": "Ação/Aventura",
+      "categoria_id": 1,
+      "produtoraId": 3,
+      "id": 3
+    },
+    {
+      "titulo": "Atividader Paranormal - Ente Próximo",
+      "ano": 2021,
+      "genero": "Suspense",
+      "categoria_id": 1,
+      "produtoraId": 4,
+      "id": 4
+    }
+  ],
+  "produtoras": [
+    {
+      "id": 1,
+      "nome": "Marvel Studios"
+    },
+    {
+      "id": 2,
+      "nome": "Syncopy Films"
+    },
+    {
+      "id": 3,
+      "nome": "Once Race Films"
+    },
+    {
+      "id": 4,
+      "nome": "Bluehouse Productions"
+    }
+  ],
+  "salas": [
+    {
+      "id": 1,
+      "sala": 1,
+      "qtd_poltronas": 40,
+      "tipo": "2D Dublado/Legendado",
+      "hora": "17:00, 20:00",
+      "preco": 20,
+      "categoria_id": 2
+    },
+    {
+      "sala": 2,
+      "qtd_poltronas": 35,
+      "tipo": "3D dublado/Legendado",
+      "hora": "18:00, 21:00",
+      "preco": 30,
+      "categoria_id": 2,
+      "id": 2
+    },
+    {
+      "sala": 3,
+      "qtd_poltronas": 30,
+      "tipo": "2D 4K dublado/Legendado",
+      "hora": "17:00, 20:00",
+      "preco": 35,
+      "categoria_id": 2,
+      "id": 3
+    },
+    {
+      "sala": 4,
+      "qtd_poltronas": 25,
+      "tipo": "3D 4K dublado/Legendado",
+      "hora": "18:00, 21:00",
+      "preco": 40,
+      "categoria_id": 2,
+      "id": 4
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "filmes"
+    },
+    {
+      "id": 2,
+      "nome": "produtoras"
+    },
+    {
+      "id": 3,
+      "nome": "salas"
+    }
+  ]
+}
