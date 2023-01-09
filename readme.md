@@ -1,4 +1,4 @@
-LINK PARA O SERVER - https://json-server-cinema-lhw2.onrender.comLINKPARA O SERVER - 
+LINK PARA O SERVER - https://json-server-cinema-lhw2.onrender.com
 
 SOBRE O PROJETO:
 Foi proposto o desenvolvimento de um servidor Json (JSON-SERVER) que tivesse três (ou mais) rotas, onde as entidades utilizadas deveriam possuir quatro (ou mais) atributos. O Json-Server deve ser funcional sendo capaz de acessar dados HTTP (GET), inserir (POST), alterar (PUT) e excluir (DELETE) informações presentes em todas as suas rotas.
